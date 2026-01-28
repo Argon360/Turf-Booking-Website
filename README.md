@@ -20,3 +20,4 @@
 6)Create a new database naming scbs_db.
 
 7)Import the provided SQL file. The file is known as scbs_db.sql located inside the database folder.
+heher
